@@ -27,9 +27,8 @@ const Navbar = () => {
                 <ul className='list none m-0 p-2 bg-white rounded-md border text-sm'>
                   <li className='py-1 px-2 cursor-pointer pr-10 '>Logout</li>
                 </ul>
-
               </div>
-                
+              
             </div>
 
           </div>
